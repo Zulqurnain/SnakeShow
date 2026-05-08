@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎮 Screenshots & Demo
 
-Visit the live demo at: [https://your-username.github.io/SnakeShow](https://your-username.github.io/SnakeShow)
+Visit the live demo at: [https://github.com/Zulqurnain/SnakeShow](https://github.com/Zulqurnain/SnakeShow)
 
 ## 🐛 Known Issues & Roadmap
 
@@ -211,6 +211,8 @@ Visit the live demo at: [https://your-username.github.io/SnakeShow](https://your
 
 ---
 
-**Made with ❤️ and lots of ☕ by Zulqurnain Haider**
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
 
 *Game tested on Chrome, Firefox, Safari, and mobile browsers*
