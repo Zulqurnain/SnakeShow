@@ -216,3 +216,7 @@ Visit the live demo at: [https://github.com/Zulqurnain/SnakeShow](https://github
 For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
 
 *Game tested on Chrome, Firefox, Safari, and mobile browsers*
+
+## Recent changes
+
+- 2026-10-20: Commit history tidied up: every commit is now credited to Zulqurnain.
